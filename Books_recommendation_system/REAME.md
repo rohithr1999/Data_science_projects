@@ -9,7 +9,7 @@
 
 ####  Model Deployment: Serialized the trained recommendation model using Pickle for integration with deployment tools like Streamlit or Flask.
 
-#### 📈 Performance Insight: Optimized recommendations by filtering top-rated books and applying similarity score thresholds to improve suggestion relevance.
+#### Performance Insight: Optimized recommendations by filtering top-rated books and applying similarity score thresholds to improve suggestion relevance.
 
 
 
@@ -21,6 +21,6 @@
 
 
 
-Ask ChatGPT
+
 
 
